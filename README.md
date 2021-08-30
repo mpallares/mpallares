@@ -7,7 +7,7 @@ I am Full Stack Engineer specialized in web technologies and the JavaScript ecos
 I have a friendly and curious personality and I am a self-motivated learner, passionate about new technologies, new cultures, travelling and food.
 
 
-- 🔭 I’m currently working on the Localife & Readit projects
+- 🔭 I’m currently working on the [Localife](https://github.com/geuxor/localife-frontend) project :earth_americas:
 - 🌱 I’m currently learning Typescript and React Native
 - 💬 Ask me about anything!
 - 😄 Pronouns: she/her
