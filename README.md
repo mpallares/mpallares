@@ -1,25 +1,22 @@
 
 
 ## Welcome to my GitHub profile ✌️
-👋 Hello! My name is Maria. I am Full Stack Engineer based in Barcelona specialized in web technologies and the JavaScript ecosystem. I enjoy working on end to end (UI, Model, Database) software design and application development.
+👋 Hello! My name is Maria. I am Full Stack Engineer based in Lisbon specialized in web technologies and the JavaScript ecosystem. I enjoy working on end to end (UI, Model, Database) software design and application development.
 
 I have a friendly and curious personality and I am a self-motivated learner, passionate about new technologies, new cultures, travelling and food.
 
 ## Some of my favourite technologies:
 
-<img src="./assets/js.png" width="40" display="inline-block"> <img src="./assets/typescript.png" width="40" display="inline-block"> <img src="./assets/react.png" width="40" display="inline-block">
-<img src="./assets/redux.png" width="40" display="inline-block">
-<img src="./assets/49996085.png" width="40" display="inline-block">
-<img src="./assets/nodejs.png" width="40" display="inline-block">
-<img src="./assets/graphql.png" width="40" display="inline-block">
-<img src="./assets/postgresql.png" width="40" display="inline-block">
-<img src="./assets/mdb.png" width="40" display="inline-block">
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,apollo,redux,tailwind,jest,solidity,git,graphql,nodejs,express,postgresql,mongo,docker,aws" />
+  </a>
+</p>
 
 
 ## What am I up to these days?
 
-- 🔭 I’m currently working on the [Localife](https://github.com/geuxor/localife-frontend) project :earth_americas:
-- 🌱 I’m currently learning Typescript and React Native
+- 🌱 I’m currently learning Solidity
 - 💬 Ask me about anything!
 - 😄 Pronouns: she/her
 
